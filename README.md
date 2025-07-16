@@ -37,7 +37,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [伊伊秒傷小幫手-v1.0.0.zip](https://drive.google.com/file/d/1aKW7ZalYsFEBS6jhSX-UmRks3f38AbTa/view?usp=sharing) |
+| 🗂️ 免安裝版 | [伊伊秒傷小幫手-v1.0.0.zip](https://drive.google.com/file/d/1MScYjopUOhAbjWYYcQfwYEJLTg6wjfW-/view?usp=sharing) |
 
 > 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
 
